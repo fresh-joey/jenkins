@@ -1,1 +1,4 @@
 Folow the instructions below to setup infrastructure
+1. Turn off internet
+2. Run the installer as administrator
+3. Don't start the program, now open the crack folder
